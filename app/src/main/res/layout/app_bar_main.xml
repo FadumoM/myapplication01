@@ -15,7 +15,7 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="@color/cardview_dark_background"
+            android:background="@color/purple_700"
             android:backgroundTint="#E8E2E2"
             app:popupTheme="@style/Theme.Myapplication01.PopupOverlay" />
 
