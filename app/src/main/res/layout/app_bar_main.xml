@@ -16,6 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="@color/cardview_dark_background"
+            android:backgroundTint="#E8E2E2"
             app:popupTheme="@style/Theme.Myapplication01.PopupOverlay" />
 
     </com.google.android.material.appbar.AppBarLayout>
